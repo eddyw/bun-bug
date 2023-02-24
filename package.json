@@ -1,0 +1,21 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eddy Wilson",
+  "license": "Unlicensed",
+  "dependencies": {
+    "@types/node": "18.14.0",
+    "inversify": "6.0.1",
+    "reflect-metadata": "0.1.13",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "prettier": "2.8.4"
+  }
+}
